@@ -1,4 +1,8 @@
-# bagelwebshop
+# Vuejs bagelwebshop 2019
+
+# This repo fits with the end of video 18 in my youtube playlist: https://www.youtube.com/playlist?list=PL2jXTHYir9I696-fk_4ODXWQmCyMbeAl-
+
+If you want to skip the setup, styling with css/scss, vuetify etc, you can clone this and start from video 19
 
 ## Project setup
 ```
